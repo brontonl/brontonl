@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Loaie Hamo (aka @brontonl)
+- 👀 I’m interested in Cooking, Coding and Design
+- 🌱 I’m currently learning ReactJS + Firebase
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me bronto.me
